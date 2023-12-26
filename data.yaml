@@ -1,0 +1,9 @@
+
+train: C:/Users/Lenovo/Desktop/ysa proje/train
+val: C:/Users/Lenovo/Desktop/ysa proje/test
+
+# number of classes
+nc: 10
+
+# class names
+names: ['sunglass','hat','jacket','shirt','pants','shorts','skirt','dress','bag','shoe']
